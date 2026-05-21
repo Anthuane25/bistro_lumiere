@@ -16,8 +16,8 @@ body {
 h1 {
     text-align: center;
     font-size: 50px;
-    margin-top: 30px;
-    margin-bottom: 70px;
+    margin-top: 10px;
+    margin-bottom: 50px;
 }
 
 .servicios {
@@ -38,7 +38,7 @@ h1 {
     text-align: center;
     line-height: 1.7;
     color: grey;
-    font-size: 21px;
+    font-size: 17.8px;
 }
 
 .iconos {
@@ -69,3 +69,51 @@ footer {
 .pie a{
     color: black;
 }
+
+.volver{
+    margin: 20px;
+}
+
+.volver a{
+    color: black;
+    font-size: 20px;
+    font-weight: 400;
+}
+
+section{
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+
+.secciones{
+    text-align: center;
+    text-decoration: underline;
+    font-size: 35px;
+    margin-top: 100px;
+}
+
+
+.platos{
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.separador{
+    width: 5%;    /* ancho deseado*/
+    margin: 20px auto; /*20px arriba/abajo, auto centra horizontalmente*/
+    border: 0; /*elimina el borde por defecto del navegador*/
+    border-top: 4px solid grey;  /*define el grosor y el color*/
+}
+
+
+.published{
+    text-align: center;
+    color: rgb(190, 188, 188);
+    margin-top: 150px;
+}
+
+.alergia{
+    font-style: italic;
+    font-size: 15px;
+}
+
