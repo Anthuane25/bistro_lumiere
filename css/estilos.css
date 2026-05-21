@@ -1,0 +1,70 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: Gelasio, serif;
+}
+
+.contenedor {
+    width: 700px;
+    margin: 0 auto;
+}
+
+body {
+    background-color: whitesmoke;
+}
+
+h1 {
+    text-align: center;
+    font-size: 50px;
+    margin-top: 30px;
+    margin-bottom: 70px;
+}
+
+.servicios {
+    text-align: center;
+    margin-top: 80px;
+    font-size: 18px;
+}
+
+
+.servicios a {
+    color: black;
+    line-height: 2.3;
+
+}
+
+
+.texto {
+    text-align: center;
+    line-height: 1.7;
+    color: grey;
+}
+
+.iconos {
+    margin-top: 20px;
+    text-align: center;
+    font-size: 20px;
+}
+
+.iconos a {
+    color: black;
+}
+
+
+footer {
+    margin-top: 40px;
+    padding-bottom: 25px;
+    text-align: center;
+    border-top: 1px solid black;
+    padding-top: 25px;
+    
+}
+
+.pie {
+    font-size: 15px;
+    color: grey;
+}
+
+.pie a{
+    color: black;
+}
